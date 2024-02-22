@@ -1,0 +1,1 @@
+This project focuses on practical API testing using Postman. It aims to provide a comprehensive understanding of API testing techniques, including sending diverse types of requests, managing responses, scripting tests.
